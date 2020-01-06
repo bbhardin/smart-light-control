@@ -4,4 +4,4 @@ A small program using Webhooks and IFTTT to control my LIFX smart lights using m
 
 ![Image of control board](https://github.com/bbhardin/smart-light-control/blob/master/IMG_8427.jpg)
 
-Unfortunately, I was not able to determine between the up and down motion of the buttons. The computer relys on a difference in resistance to determine whether the button is pressed up or down. Using only digital inputs, I can not differentiate between up and down motion without a separate chip. That may come in a future iteration of the project.
+Yes, I know, my cable management is a work of art. Unfortunately, I was not able to determine between the up and down motion of the buttons. The computer relys on a difference in resistance to determine whether the button is pressed up or down. Using only digital inputs, I can not differentiate between up and down motion without a separate chip. That may come in a future iteration of the project.
